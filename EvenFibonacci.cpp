@@ -43,6 +43,7 @@ int main(){
             n2 = n3;
             
         }
+        //Sum of Even numbers
         cout << sum << endl;
     }   return 0;
 }
